@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python caches
+pycache/
+*.pyc
+*.pyo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Env files
+.env
+*.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Data (large or sensitive)
+data/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.db
+raw/
+raw_html/
+
+# Logs
+*.log
+logs/
+
+# Build and dist
+build/
+dist/
+*.egg-info/
+
+# Temp
+tmp/
+temp/
